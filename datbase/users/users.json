@@ -1,1 +1,9 @@
+{
+users: Example;
+}
+
+{
+user: Example;
+}
+
 
